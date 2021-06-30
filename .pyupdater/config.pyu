@@ -1,0 +1,20 @@
+{
+  "config_dir": "E:\\Pyuptests\\.pyupdater",
+  "filename": "E:\\Pyuptests\\.pyupdater\\config.pyu",
+  "count": 0,
+  "app_config": {
+    "APP_NAME": "Pyuptestsdemo",
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "COMPANY_NAME": "Carlos",
+    "PLUGIN_CONFIGS": {},
+    "UPDATE_PATCHES": true,
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "HTTP_TIMEOUT": 30,
+    "UPDATE_URLS": [
+      "\\\\cmt693\\TecopLists\\pyupdates"
+    ],
+    "DATA_DIR": "E:\\Pyuptests"
+  }
+}
