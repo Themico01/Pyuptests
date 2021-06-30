@@ -53,7 +53,7 @@ def RunFileServer(fileServerDir, fileServerPort):
     app.run(host=LOCALHOST, port=fileServerPort)
 
 
-def WaitForFileServerToStart(url):
+def WaitForFileServerToStart(url,httptimeout):
     """
     Wait for file server to start up. If we receive
     a ConnectionError, we continue waiting, but if we receive an HTTP
@@ -62,19 +62,17 @@ def WaitForFileServerToStart(url):
     an environment variable, whereas when running from the source repo,
     the location of the updates is likely to be ./pyu-data/deploy/
     """
-
     attempts = 0
     while True:
         try:
             attempts += 1
-            requests.get(url, timeout=1)
-            return True
+            r=requests.get(url, timeout=httptimeout)
+            return r.status_code
         except requests.exceptions.ConnectionError:
             time.sleep(0.25)
-            if attempts > 10:
-                logger.warning("WaitForFileServerToStart: timeout")
+            print('Connection failed: timeout')
+            if attempts > 5:
                 return
-
 
 def ShutDownFileServer(port):
     """
