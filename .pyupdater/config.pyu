@@ -13,7 +13,7 @@
     "MAX_DOWNLOAD_RETRIES": 3,
     "HTTP_TIMEOUT": 30,
     "UPDATE_URLS": [
-      "\\\\cmt693\\TecopLists\\pyupdates"
+      "https://github.com/carmirec/Pyuptests.git"
     ],
     "DATA_DIR": "E:\\Pyuptests"
   }

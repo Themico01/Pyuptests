@@ -4,4 +4,4 @@ class ClientConfig(object):
     COMPANY_NAME = 'Carlos'
     HTTP_TIMEOUT = 30
     MAX_DOWNLOAD_RETRIES = 3
-    UPDATE_URLS = ['\\\\cmt693\\TecopLists\\pyupdates']
+    UPDATE_URLS = ['https://github.com/carmirec/Pyuptests.git']
