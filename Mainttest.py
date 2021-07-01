@@ -39,6 +39,7 @@ def CheckForUpdates(CLIENT_CONFIG,version):
     
     if appUpdate:
         "Comprueba si el script forma parte de un bundle o es independiente"
+        print(hasattr(sys, "frozen"))
         if hasattr(sys, "frozen"):
             "Descarga el update"
             downloaded = appUpdate.download()
