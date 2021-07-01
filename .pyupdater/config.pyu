@@ -16,5 +16,33 @@
       "https://github.com/carmirec/Pyuptests.git"
     ],
     "DATA_DIR": "E:\\Pyuptests"
+  },
+  "version_meta": {
+    "updates": {
+      "Pyuptestsdemo": {
+        "0.0.1.2.0": {
+          "win": {
+            "file_hash": "4f35bf773019bd9517b398db7af724bd91dcdf9de1a359a07746b17bde95ad06",
+            "file_size": 16187645,
+            "filename": "Pyuptestsdemo-win-0.0.1.zip"
+          }
+        }
+      }
+    },
+    "latest": {
+      "Pyuptestsdemo": {
+        "stable": {
+          "win": "0.0.1.2.0"
+        }
+      }
+    }
+  },
+  "py_repo_config": {
+    "patches": {},
+    "package": {
+      "Pyuptestsdemo": {
+        "win": "0.0.1.2.0"
+      }
+    }
   }
 }

@@ -1,0 +1,2752 @@
+('E:\\Pyuptests\\.pyupdater\\work\\win\\PYZ-00.pyz',
+ [('os',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\selectors.py',
+   'PYMODULE'),
+  ('threading',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\struct.py',
+   'PYMODULE'),
+  ('ntpath',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\stat.py',
+   'PYMODULE'),
+  ('ssl',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\getopt.py',
+   'PYMODULE'),
+  ('socket',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\socket.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('tempfile',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('shutil',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('tokenize',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('logging',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('html',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\tty.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('platform',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('runpy',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\shlex.py',
+   'PYMODULE'),
+  ('readline',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\readline.py',
+   'PYMODULE'),
+  ('pyreadline.console',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\console\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.console.console',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\console\\console.py',
+   'PYMODULE'),
+  ('pyreadline.console.event',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\console\\event.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pyreadline.console.ansi',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\console\\ansi.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\keysyms\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.keysyms',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\keysyms\\keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.common',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\keysyms\\common.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.ironpython_keysyms',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\keysyms\\ironpython_keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.winconstants',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\keysyms\\winconstants.py',
+   'PYMODULE'),
+  ('pyreadline.logger',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\logger.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('win32evtlogutil',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32\\lib\\win32evtlogutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32con',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('smtplib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('hmac',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\hmac.py',
+   'PYMODULE'),
+  ('queue',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\queue.py',
+   'PYMODULE'),
+  ('pyreadline.unicode_helper',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\unicode_helper.py',
+   'PYMODULE'),
+  ('pyreadline.py3k_compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\py3k_compat.py',
+   'PYMODULE'),
+  ('pyreadline.console.ironpython_console',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\console\\ironpython_console.py',
+   'PYMODULE'),
+  ('pyreadline',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.release',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\release.py',
+   'PYMODULE'),
+  ('pyreadline.modes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\modes\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.modes.vi',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\modes\\vi.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.history',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\lineeditor\\history.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.lineobj',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\lineeditor\\lineobj.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.wordmatcher',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\lineeditor\\wordmatcher.py',
+   'PYMODULE'),
+  ('pyreadline.modes.notemacs',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\modes\\notemacs.py',
+   'PYMODULE'),
+  ('pyreadline.modes.emacs',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\modes\\emacs.py',
+   'PYMODULE'),
+  ('pyreadline.modes.basemode',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\modes\\basemode.py',
+   'PYMODULE'),
+  ('pyreadline.error',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\error.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\lineeditor\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.win32_clipboard',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\clipboard\\win32_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.no_clipboard',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\clipboard\\no_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.ironpython_clipboard',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\clipboard\\ironpython_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.rlmain',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyreadline\\rlmain.py',
+   'PYMODULE'),
+  ('glob',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('win32com',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('imp',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\imp.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('six',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\uuid.py',
+   'PYMODULE'),
+  ('netbios',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('typing',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\typing.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pyupservice.client_config',
+   'E:\\Pyuptests\\pyupservice\\client_config.py',
+   'PYMODULE'),
+  ('pyupservice', '-', 'PYMODULE'),
+  ('Mainttest', 'E:\\Pyuptests\\Mainttest.py', 'PYMODULE'),
+  ('pyupservice.fileserver',
+   'E:\\Pyuptests\\pyupservice\\fileserver.py',
+   'PYMODULE'),
+  ('flask',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\__init__.py',
+   'PYMODULE'),
+  ('flask.templating',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\templating.py',
+   'PYMODULE'),
+  ('flask.debughelpers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\debughelpers.py',
+   'PYMODULE'),
+  ('flask.signals',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\signals.py',
+   'PYMODULE'),
+  ('flask.helpers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\helpers.py',
+   'PYMODULE'),
+  ('werkzeug.wsgi',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wsgi.py',
+   'PYMODULE'),
+  ('werkzeug.middleware.shared_data',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\middleware\\shared_data.py',
+   'PYMODULE'),
+  ('werkzeug.middleware',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.http',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\http.py',
+   'PYMODULE'),
+  ('werkzeug.filesystem',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\filesystem.py',
+   'PYMODULE'),
+  ('werkzeug.middleware.http_proxy',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\middleware\\http_proxy.py',
+   'PYMODULE'),
+  ('werkzeug',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.middleware.dispatcher',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\middleware\\dispatcher.py',
+   'PYMODULE'),
+  ('werkzeug._internal',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\_internal.py',
+   'PYMODULE'),
+  ('werkzeug._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\_compat.py',
+   'PYMODULE'),
+  ('werkzeug.urls',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\urls.py',
+   'PYMODULE'),
+  ('werkzeug.routing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\routing.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\datastructures.py',
+   'PYMODULE'),
+  ('flask.globals',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\globals.py',
+   'PYMODULE'),
+  ('werkzeug.local',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\local.py',
+   'PYMODULE'),
+  ('flask.ctx',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\ctx.py',
+   'PYMODULE'),
+  ('flask.config',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\config.py',
+   'PYMODULE'),
+  ('flask.blueprints',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\blueprints.py',
+   'PYMODULE'),
+  ('flask.app',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\app.py',
+   'PYMODULE'),
+  ('flask.testing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\testing.py',
+   'PYMODULE'),
+  ('click.testing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\testing.py',
+   'PYMODULE'),
+  ('click',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\__init__.py',
+   'PYMODULE'),
+  ('click.parser',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\parser.py',
+   'PYMODULE'),
+  ('click.formatting',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\formatting.py',
+   'PYMODULE'),
+  ('click._textwrap',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\_textwrap.py',
+   'PYMODULE'),
+  ('click.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\exceptions.py',
+   'PYMODULE'),
+  ('click.termui',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\termui.py',
+   'PYMODULE'),
+  ('click._termui_impl',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\_termui_impl.py',
+   'PYMODULE'),
+  ('click.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\utils.py',
+   'PYMODULE'),
+  ('click._winconsole',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\_winconsole.py',
+   'PYMODULE'),
+  ('click.types',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\types.py',
+   'PYMODULE'),
+  ('click.decorators',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\decorators.py',
+   'PYMODULE'),
+  ('click._unicodefun',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\_unicodefun.py',
+   'PYMODULE'),
+  ('click.globals',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\globals.py',
+   'PYMODULE'),
+  ('click.core',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\core.py',
+   'PYMODULE'),
+  ('click._bashcomplete',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\_bashcomplete.py',
+   'PYMODULE'),
+  ('click._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\click\\_compat.py',
+   'PYMODULE'),
+  ('colorama',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('werkzeug.test',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\test.py',
+   'PYMODULE'),
+  ('json',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('werkzeug.serving',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\serving.py',
+   'PYMODULE'),
+  ('werkzeug._reloader',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\_reloader.py',
+   'PYMODULE'),
+  ('watchdog.events',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\events.py',
+   'PYMODULE'),
+  ('watchdog',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\__init__.py',
+   'PYMODULE'),
+  ('watchdog.utils.unicode_paths',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\utils\\unicode_paths.py',
+   'PYMODULE'),
+  ('watchdog.utils.platform',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\utils\\platform.py',
+   'PYMODULE'),
+  ('watchdog.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\utils\\__init__.py',
+   'PYMODULE'),
+  ('watchdog.utils.compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\utils\\compat.py',
+   'PYMODULE'),
+  ('pathtools.patterns',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pathtools\\patterns.py',
+   'PYMODULE'),
+  ('pathtools',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pathtools\\__init__.py',
+   'PYMODULE'),
+  ('watchdog.observers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\__init__.py',
+   'PYMODULE'),
+  ('watchdog.observers.read_directory_changes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\read_directory_changes.py',
+   'PYMODULE'),
+  ('watchdog.observers.winapi',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\winapi.py',
+   'PYMODULE'),
+  ('watchdog.observers.api',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\api.py',
+   'PYMODULE'),
+  ('watchdog.utils.bricks',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\utils\\bricks.py',
+   'PYMODULE'),
+  ('watchdog.observers.kqueue',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\kqueue.py',
+   'PYMODULE'),
+  ('watchdog.utils.dirsnapshot',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\utils\\dirsnapshot.py',
+   'PYMODULE'),
+  ('pathtools.path',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pathtools\\path.py',
+   'PYMODULE'),
+  ('watchdog.observers.fsevents',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\fsevents.py',
+   'PYMODULE'),
+  ('watchdog.observers.polling',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\polling.py',
+   'PYMODULE'),
+  ('watchdog.observers.inotify',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\inotify.py',
+   'PYMODULE'),
+  ('watchdog.observers.inotify_buffer',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\inotify_buffer.py',
+   'PYMODULE'),
+  ('watchdog.observers.inotify_c',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\observers\\inotify_c.py',
+   'PYMODULE'),
+  ('watchdog.utils.delayed_queue',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\watchdog\\utils\\delayed_queue.py',
+   'PYMODULE'),
+  ('werkzeug.debug',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\debug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.repr',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\debug\\repr.py',
+   'PYMODULE'),
+  ('werkzeug.debug.console',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\debug\\console.py',
+   'PYMODULE'),
+  ('werkzeug.security',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\security.py',
+   'PYMODULE'),
+  ('OpenSSL.SSL',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\OpenSSL\\SSL.py',
+   'PYMODULE'),
+  ('OpenSSL._util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\OpenSSL\\_util.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hashes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('fractions',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\fractions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed25519',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x448',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ocsp',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('idna',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('asn1crypto.keys',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\keys.py',
+   'PYMODULE'),
+  ('asn1crypto',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\__init__.py',
+   'PYMODULE'),
+  ('asn1crypto._teletex_codec',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_teletex_codec.py',
+   'PYMODULE'),
+  ('asn1crypto.version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\version.py',
+   'PYMODULE'),
+  ('asn1crypto.util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\util.py',
+   'PYMODULE'),
+  ('asn1crypto._inet',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_inet.py',
+   'PYMODULE'),
+  ('asn1crypto._ordereddict',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_ordereddict.py',
+   'PYMODULE'),
+  ('asn1crypto._iri',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_iri.py',
+   'PYMODULE'),
+  ('asn1crypto.core',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\core.py',
+   'PYMODULE'),
+  ('asn1crypto.parser',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\parser.py',
+   'PYMODULE'),
+  ('asn1crypto.algos',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\algos.py',
+   'PYMODULE'),
+  ('asn1crypto._int',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_int.py',
+   'PYMODULE'),
+  ('asn1crypto._perf._big_num_ctypes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_perf\\_big_num_ctypes.py',
+   'PYMODULE'),
+  ('asn1crypto._perf',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_perf\\__init__.py',
+   'PYMODULE'),
+  ('asn1crypto._ffi',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_ffi.py',
+   'PYMODULE'),
+  ('asn1crypto._types',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_types.py',
+   'PYMODULE'),
+  ('asn1crypto._errors',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_errors.py',
+   'PYMODULE'),
+  ('asn1crypto._elliptic_curve',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\_elliptic_curve.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.interfaces',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.encode_asn1',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.scrypt',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\scrypt.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x509',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dsa',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x25519',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.poly1305',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dh',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hmac',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed448',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.debug.tbtools',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\debug\\tbtools.py',
+   'PYMODULE'),
+  ('OpenSSL.crypto',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\OpenSSL\\crypto.py',
+   'PYMODULE'),
+  ('OpenSSL',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\OpenSSL\\__init__.py',
+   'PYMODULE'),
+  ('OpenSSL.version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\OpenSSL\\version.py',
+   'PYMODULE'),
+  ('flask.wrappers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\wrappers.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.json',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\json.py',
+   'PYMODULE'),
+  ('flask.sessions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\sessions.py',
+   'PYMODULE'),
+  ('flask.json.tag',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\json\\tag.py',
+   'PYMODULE'),
+  ('itsdangerous',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\__init__.py',
+   'PYMODULE'),
+  ('itsdangerous.url_safe',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\url_safe.py',
+   'PYMODULE'),
+  ('itsdangerous.timed',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\timed.py',
+   'PYMODULE'),
+  ('itsdangerous._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\_compat.py',
+   'PYMODULE'),
+  ('itsdangerous.signer',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\signer.py',
+   'PYMODULE'),
+  ('itsdangerous.serializer',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\serializer.py',
+   'PYMODULE'),
+  ('itsdangerous.jws',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\jws.py',
+   'PYMODULE'),
+  ('itsdangerous.exc',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\exc.py',
+   'PYMODULE'),
+  ('itsdangerous.encoding',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\encoding.py',
+   'PYMODULE'),
+  ('itsdangerous._json',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\itsdangerous\\_json.py',
+   'PYMODULE'),
+  ('flask.logging',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\logging.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.user_agent',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\user_agent.py',
+   'PYMODULE'),
+  ('werkzeug.useragents',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\useragents.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.response',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\response.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.request',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\request.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.etag',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\etag.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.common_descriptors',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\common_descriptors.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.base_response',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\base_response.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.base_request',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\base_request.py',
+   'PYMODULE'),
+  ('werkzeug.formparser',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\formparser.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.auth',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\auth.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.accept',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\wrappers\\accept.py',
+   'PYMODULE'),
+  ('flask.cli',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\cli.py',
+   'PYMODULE'),
+  ('flask._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\_compat.py',
+   'PYMODULE'),
+  ('flask.json',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\flask\\json\\__init__.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('werkzeug.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\werkzeug\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\__init__.py',
+   'PYMODULE'),
+  ('jinja2.ext',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\ext.py',
+   'PYMODULE'),
+  ('jinja2._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\_compat.py',
+   'PYMODULE'),
+  ('jinja2.defaults',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\defaults.py',
+   'PYMODULE'),
+  ('jinja2.tests',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\tests.py',
+   'PYMODULE'),
+  ('jinja2.asyncsupport',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\asyncsupport.py',
+   'PYMODULE'),
+  ('jinja2.asyncfilters',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\asyncfilters.py',
+   'PYMODULE'),
+  ('asyncio',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('jinja2.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\utils.py',
+   'PYMODULE'),
+  ('markupsafe',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\markupsafe\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe._native',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\markupsafe\\_native.py',
+   'PYMODULE'),
+  ('markupsafe._constants',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\markupsafe\\_constants.py',
+   'PYMODULE'),
+  ('markupsafe._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\markupsafe\\_compat.py',
+   'PYMODULE'),
+  ('jinja2.constants',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\constants.py',
+   'PYMODULE'),
+  ('jinja2.lexer',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\lexer.py',
+   'PYMODULE'),
+  ('jinja2.filters',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\filters.py',
+   'PYMODULE'),
+  ('jinja2.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2.runtime',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\runtime.py',
+   'PYMODULE'),
+  ('jinja2.bccache',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\bccache.py',
+   'PYMODULE'),
+  ('jinja2.loaders',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\loaders.py',
+   'PYMODULE'),
+  ('jinja2.environment',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\environment.py',
+   'PYMODULE'),
+  ('jinja2.debug',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\debug.py',
+   'PYMODULE'),
+  ('jinja2.compiler',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\compiler.py',
+   'PYMODULE'),
+  ('jinja2.idtracking',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\idtracking.py',
+   'PYMODULE'),
+  ('jinja2.optimizer',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\optimizer.py',
+   'PYMODULE'),
+  ('jinja2.visitor',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\visitor.py',
+   'PYMODULE'),
+  ('jinja2.parser',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\parser.py',
+   'PYMODULE'),
+  ('jinja2.nodes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\nodes.py',
+   'PYMODULE'),
+  ('jinja2._identifier',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\jinja2\\_identifier.py',
+   'PYMODULE'),
+  ('requests',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('requests.api',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('socks',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('win_inet_pton',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\win_inet_pton.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('chardet',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('urllib3',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('pyupdater.client',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\client\\__init__.py',
+   'PYMODULE'),
+  ('pyupdater.utils.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('pyupdater.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\utils\\__init__.py',
+   'PYMODULE'),
+  ('stevedore.extension',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\extension.py',
+   'PYMODULE'),
+  ('stevedore.exception',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\exception.py',
+   'PYMODULE'),
+  ('stevedore._cache',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\_cache.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('zipp',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\zipp.py',
+   'PYMODULE'),
+  ('csv',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\csv.py',
+   'PYMODULE'),
+  ('stevedore',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\__init__.py',
+   'PYMODULE'),
+  ('stevedore.driver',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\driver.py',
+   'PYMODULE'),
+  ('stevedore.hook',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\hook.py',
+   'PYMODULE'),
+  ('stevedore.named',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\named.py',
+   'PYMODULE'),
+  ('stevedore.enabled',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\stevedore\\enabled.py',
+   'PYMODULE'),
+  ('dsdev_utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\__init__.py',
+   'PYMODULE'),
+  ('dsdev_utils.terminal',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\terminal.py',
+   'PYMODULE'),
+  ('dsdev_utils._version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\_version.py',
+   'PYMODULE'),
+  ('pyupdater.utils.encoding',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\utils\\encoding.py',
+   'PYMODULE'),
+  ('pyupdater.utils.config',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\utils\\config.py',
+   'PYMODULE'),
+  ('pyupdater.utils.storage',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\utils\\storage.py',
+   'PYMODULE'),
+  ('pyupdater.client.updates',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\client\\updates.py',
+   'PYMODULE'),
+  ('pyupdater.core.package_handler.package',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\core\\package_handler\\package.py',
+   'PYMODULE'),
+  ('pyupdater.core.package_handler',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\core\\package_handler\\__init__.py',
+   'PYMODULE'),
+  ('pyupdater.core',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\core\\__init__.py',
+   'PYMODULE'),
+  ('pyupdater.core.uploader',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\core\\uploader.py',
+   'PYMODULE'),
+  ('pyupdater.core.key_handler.keys',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\core\\key_handler\\keys.py',
+   'PYMODULE'),
+  ('pyupdater.core.key_handler',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\core\\key_handler\\__init__.py',
+   'PYMODULE'),
+  ('pyupdater.core.package_handler.patch',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\core\\package_handler\\patch.py',
+   'PYMODULE'),
+  ('bsdiff4',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\bsdiff4\\__init__.py',
+   'PYMODULE'),
+  ('bsdiff4.test_all',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\bsdiff4\\test_all.py',
+   'PYMODULE'),
+  ('bsdiff4.format',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\bsdiff4\\format.py',
+   'PYMODULE'),
+  ('dsdev_utils.crypto',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\crypto.py',
+   'PYMODULE'),
+  ('dsdev_utils.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\exceptions.py',
+   'PYMODULE'),
+  ('pyupdater.client.patcher',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\client\\patcher.py',
+   'PYMODULE'),
+  ('pyupdater.client.downloader',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\client\\downloader.py',
+   'PYMODULE'),
+  ('pyupdater.settings',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\settings.py',
+   'PYMODULE'),
+  ('pyupdater',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\__init__.py',
+   'PYMODULE'),
+  ('pyupdater._version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pyupdater\\_version.py',
+   'PYMODULE'),
+  ('nacl.signing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\signing.py',
+   'PYMODULE'),
+  ('nacl.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\utils.py',
+   'PYMODULE'),
+  ('nacl.public',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\public.py',
+   'PYMODULE'),
+  ('nacl.exceptions',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\exceptions.py',
+   'PYMODULE'),
+  ('nacl.encoding',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\encoding.py',
+   'PYMODULE'),
+  ('nacl',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\__init__.py',
+   'PYMODULE'),
+  ('nacl.bindings',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('nacl.bindings.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\utils.py',
+   'PYMODULE'),
+  ('nacl.bindings.sodium_core',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\sodium_core.py',
+   'PYMODULE'),
+  ('nacl.bindings.randombytes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\randombytes.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_sign',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_sign.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_shorthash',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_shorthash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_secretstream',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_secretstream.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_secretbox',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_secretbox.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_scalarmult',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_scalarmult.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_pwhash',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_pwhash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_kx',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_kx.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_hash',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_hash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_generichash',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_generichash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_core',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_core.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_box',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_box.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_aead',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\nacl\\bindings\\crypto_aead.py',
+   'PYMODULE'),
+  ('dsdev_utils.system',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\system.py',
+   'PYMODULE'),
+  ('dsdev_utils.paths',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\paths.py',
+   'PYMODULE'),
+  ('dsdev_utils.logger',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\logger.py',
+   'PYMODULE'),
+  ('dsdev_utils.helpers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\helpers.py',
+   'PYMODULE'),
+  ('dsdev_utils.app',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\dsdev_utils\\app.py',
+   'PYMODULE'),
+  ('appdirs',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\appdirs.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
