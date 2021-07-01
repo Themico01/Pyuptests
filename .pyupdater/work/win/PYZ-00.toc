@@ -863,9 +863,25 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('packaging.version',
+  ('packaging._compat',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\packaging\\version.py',
+   'e\\anaconda\\lib\\site-packages\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\packaging\\__init__.py',
    'PYMODULE'),
   ('packaging.requirements',
    'e:\\software\\archivos de programas '
@@ -886,41 +902,65 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\win32\\lib\\netbios.py',
    'PYMODULE'),
-  ('packaging.markers',
+  ('packaging.version',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\packaging\\markers.py',
-   'PYMODULE'),
-  ('packaging.__about__',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('packaging',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('packaging.utils',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\packaging\\utils.py',
-   'PYMODULE'),
-  ('packaging._compat',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\packaging\\_compat.py',
+   'e\\anaconda\\lib\\site-packages\\packaging\\version.py',
    'PYMODULE'),
   ('packaging._structures',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\packaging\\_structures.py',
    'PYMODULE'),
-  ('packaging.specifiers',
+  ('packaging.markers',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\packaging\\specifiers.py',
+   'e\\anaconda\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.specifiers',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.markers',
+  ('pkg_resources._vendor.six',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
    'PYMODULE'),
   ('pkg_resources._vendor.appdirs',
    'e:\\software\\archivos de programas '
@@ -933,46 +973,6 @@
   ('win32com.shell',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\win32comext\\shell\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.version',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.six',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('sysconfig',
    'e:\\software\\archivos de programas e\\anaconda\\lib\\sysconfig.py',
@@ -988,17 +988,17 @@
   ('pathlib',
    'e:\\software\\archivos de programas e\\anaconda\\lib\\pathlib.py',
    'PYMODULE'),
-  ('_py_abc',
-   'e:\\software\\archivos de programas e\\anaconda\\lib\\_py_abc.py',
-   'PYMODULE'),
   ('tracemalloc',
    'e:\\software\\archivos de programas e\\anaconda\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('typing',
-   'e:\\software\\archivos de programas e\\anaconda\\lib\\typing.py',
-   'PYMODULE'),
   ('stringprep',
    'e:\\software\\archivos de programas e\\anaconda\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('typing',
+   'e:\\software\\archivos de programas e\\anaconda\\lib\\typing.py',
    'PYMODULE'),
   ('pyupservice.client_config',
    'E:\\Pyuptests\\pyupservice\\client_config.py',
@@ -1364,29 +1364,21 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\__init__.py',
    'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.decode_asn1',
+  ('cryptography.hazmat.backends.openssl.x448',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
    'PYMODULE'),
-  ('cryptography.x509.oid',
+  ('cryptography.hazmat.primitives.asymmetric.x448',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
    'PYMODULE'),
-  ('cryptography.hazmat.primitives.hashes',
+  ('cryptography.hazmat.primitives.asymmetric',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
    'PYMODULE'),
-  ('cryptography.hazmat.primitives',
+  ('cryptography.hazmat.primitives.asymmetric.dh',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.primitives.serialization',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.primitives.serialization.ssh',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
    'PYMODULE'),
   ('cryptography.hazmat.primitives.asymmetric.rsa',
    'e:\\software\\archivos de programas '
@@ -1403,29 +1395,85 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
    'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
   ('cryptography.hazmat.primitives.asymmetric.dsa',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
    'PYMODULE'),
-  ('cryptography.hazmat.primitives.asymmetric',
+  ('cryptography.hazmat.primitives.serialization',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
    'PYMODULE'),
-  ('cryptography.hazmat.primitives.asymmetric.dh',
+  ('cryptography.hazmat.primitives.serialization.ssh',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
    'PYMODULE'),
   ('cryptography.hazmat.primitives.serialization.base',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
    'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
   ('cryptography.hazmat.primitives.constant_time',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
    'PYMODULE'),
-  ('cryptography.hazmat._oid',
+  ('cryptography.hazmat.backends.openssl.aead',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\base.py',
    'PYMODULE'),
   ('cryptography.x509.name',
    'e:\\software\\archivos de programas '
@@ -1531,40 +1579,8 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\asn1crypto\\_elliptic_curve.py',
    'PYMODULE'),
-  ('asn1crypto.core',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\asn1crypto\\core.py',
-   'PYMODULE'),
-  ('asn1crypto.parser',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\asn1crypto\\parser.py',
-   'PYMODULE'),
   ('ipaddress',
    'e:\\software\\archivos de programas e\\anaconda\\lib\\ipaddress.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.dsa',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.encode_asn1',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.backend',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
-   'PYMODULE'),
-  ('cryptography.x509.ocsp',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
-   'PYMODULE'),
-  ('cryptography.x509.base',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\x509\\base.py',
    'PYMODULE'),
   ('cryptography.hazmat.primitives.kdf.scrypt',
    'e:\\software\\archivos de programas '
@@ -1574,41 +1590,17 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
    'PYMODULE'),
-  ('cryptography.hazmat.primitives.ciphers.modes',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.primitives.ciphers',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.primitives.ciphers.base',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
-   'PYMODULE'),
   ('cryptography.hazmat.primitives.ciphers.algorithms',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
    'PYMODULE'),
-  ('cryptography.hazmat.primitives.asymmetric.padding',
+  ('asn1crypto.core',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\core.py',
    'PYMODULE'),
-  ('cryptography.hazmat.backends.interfaces',
+  ('asn1crypto.parser',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.ciphers',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.ed25519',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.cmac',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'e\\anaconda\\lib\\site-packages\\asn1crypto\\parser.py',
    'PYMODULE'),
   ('cryptography.hazmat.backends.openssl.utils',
    'e:\\software\\archivos de programas '
@@ -1618,13 +1610,49 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
    'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hashes',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.interfaces',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.poly1305',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hmac',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
+   'PYMODULE'),
   ('cryptography.hazmat.backends.openssl.ocsp',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ocsp.py',
    'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.ec',
+  ('cryptography.hazmat.backends.openssl.encode_asn1',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x509',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed25519',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'e:\\software\\archivos de programas '
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
    'PYMODULE'),
   ('cryptography.hazmat.backends.openssl.ed448',
    'e:\\software\\archivos de programas '
@@ -1634,14 +1662,6 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
    'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.dh',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.poly1305',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
-   'PYMODULE'),
   ('cryptography.hazmat.backends.openssl.x25519',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x25519.py',
@@ -1650,41 +1670,21 @@
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
    'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.x448',
+  ('cryptography.hazmat.backends.openssl.ec',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
    'PYMODULE'),
-  ('cryptography.hazmat.primitives.asymmetric.x448',
+  ('cryptography.hazmat.backends',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
    'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.hashes',
+  ('cryptography.hazmat.backends.openssl.dh',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
    'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.hmac',
+  ('cryptography.hazmat.backends.openssl.dsa',
    'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.x509',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.aead',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.primitives.ciphers.aead',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
-   'PYMODULE'),
-  ('cryptography.hazmat.backends.openssl.rsa',
-   'e:\\software\\archivos de programas '
-   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'e\\anaconda\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
    'PYMODULE'),
   ('cryptography.x509',
    'e:\\software\\archivos de programas '
