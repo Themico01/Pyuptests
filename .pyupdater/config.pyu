@@ -26,22 +26,34 @@
             "file_size": 16187645,
             "filename": "Pyuptestsdemo-win-0.0.1.zip"
           }
+        },
+        "0.0.2.2.0": {
+          "win": {
+            "file_hash": "2022b1f9b835cd66460918e5f77481d6d0d88921cbe75cb5a03a34a6b044ed18",
+            "file_size": 16187642,
+            "filename": "Pyuptestsdemo-win-0.0.2.zip",
+            "patch_name": "Pyuptestsdemo-win-stable-2",
+            "patch_hash": "86f570a9bba4205a8b4845322e75b5ab3cc58a3e1462c7e21a492ae67e7fb8c1",
+            "patch_size": 309828
+          }
         }
       }
     },
     "latest": {
       "Pyuptestsdemo": {
         "stable": {
-          "win": "0.0.1.2.0"
+          "win": "0.0.2.2.0"
         }
       }
     }
   },
   "py_repo_config": {
-    "patches": {},
+    "patches": {
+      "Pyuptestsdemo": 2
+    },
     "package": {
       "Pyuptestsdemo": {
-        "win": "0.0.1.2.0"
+        "win": "0.0.2.2.0"
       }
     }
   }
