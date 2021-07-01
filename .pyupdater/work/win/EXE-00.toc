@@ -61,7 +61,7 @@
  [],
  False,
  False,
- 1625157180,
+ 1625158095,
  [('run.exe',
    'e:\\software\\archivos de programas '
    'e\\anaconda\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',

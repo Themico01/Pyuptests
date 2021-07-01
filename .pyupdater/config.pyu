@@ -13,7 +13,7 @@
     "MAX_DOWNLOAD_RETRIES": 3,
     "HTTP_TIMEOUT": 30,
     "UPDATE_URLS": [
-      "https://github.com/carmirec/Pyuptests.git"
+      "https://github.com/carmirec/Pyuptests/tree/main/pyu-data/deploy"
     ],
     "DATA_DIR": "E:\\Pyuptests"
   },
@@ -22,19 +22,22 @@
       "Pyuptestsdemo": {
         "0.0.1.2.0": {
           "win": {
-            "file_hash": "4f35bf773019bd9517b398db7af724bd91dcdf9de1a359a07746b17bde95ad06",
-            "file_size": 16187645,
-            "filename": "Pyuptestsdemo-win-0.0.1.zip"
+            "file_hash": "d0203d1011cfb63e9f856f54531e8d351f83695ea64e5e6f2e6e2e3536ff2bec",
+            "file_size": 16187666,
+            "filename": "Pyuptestsdemo-win-0.0.1.zip",
+            "patch_name": "Pyuptestsdemo-win-stable-3",
+            "patch_hash": "09399ccd238dab2079eed1e59d9643a625db56957d2b354245871ddb11477cb2",
+            "patch_size": 354789
           }
         },
         "0.0.2.2.0": {
           "win": {
-            "file_hash": "2022b1f9b835cd66460918e5f77481d6d0d88921cbe75cb5a03a34a6b044ed18",
-            "file_size": 16187642,
+            "file_hash": "479fccbe9db79dd486ecd3588a8e7e3f1f1a243bcb8fa3b0a4094cc4776984b3",
+            "file_size": 16187656,
             "filename": "Pyuptestsdemo-win-0.0.2.zip",
-            "patch_name": "Pyuptestsdemo-win-stable-2",
-            "patch_hash": "86f570a9bba4205a8b4845322e75b5ab3cc58a3e1462c7e21a492ae67e7fb8c1",
-            "patch_size": 309828
+            "patch_name": "Pyuptestsdemo-win-stable-4",
+            "patch_hash": "9ff9a91438db022971c8c5c13ac1b2f61a6a9f1efc21602672376393014ecea3",
+            "patch_size": 368497
           }
         }
       }
@@ -49,7 +52,7 @@
   },
   "py_repo_config": {
     "patches": {
-      "Pyuptestsdemo": 2
+      "Pyuptestsdemo": 4
     },
     "package": {
       "Pyuptestsdemo": {
